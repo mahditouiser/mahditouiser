@@ -8,9 +8,6 @@ Building scalable web platforms with TypeScript, React, Next.js, and Node.js, fo
 
 [![Skills](https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,redux,tailwind,materialui,postgres,mongodb,redis,prisma,docker,githubactions,nginx,vite,webpack,git)](https://skillicons.dev) &nbsp;
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mahditouiser/) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahdi-touiser/) &nbsp;
-
 ---
 
 📌 *Always learning, always building.*
