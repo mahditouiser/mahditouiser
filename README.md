@@ -6,32 +6,13 @@
 Building scalable web platforms with TypeScript, React, Next.js, and Node.js, focusing on frontend architecture, backend engineering, performance, and developer experience.
 </h3>
 
-- 🚀 Focused on modern web technologies and scalable full-stack solutions
-- 💬 Ask me about: Next.js, React.js, TypeScript, JavaScript, Node.js
-- 📫 Reach me at: mahditouiserkani78@gmail.com
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,redux,tailwind,materialui,postgres,mongodb,redis,prisma,docker,githubactions,nginx,vite,webpack,git)](https://skillicons.dev) &nbsp;
 
 ---
 
 # 🌐 Socials  
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mahditouiser/) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahdi-touiser/)
-
----
-
-# 💻 Tech Stack
-
-**Languages & Frameworks**  
-[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev) &nbsp;
-[![Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
-
-**Styling & UI**  
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,scss)](https://skillicons.dev)
-
-**Tools & Platforms**  
-[![Skills](https://skillicons.dev/icons?i=vite,webpack,docker,git,github)](https://skillicons.dev)
-
-**State & Data Management**  
-[![Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahdi-touiser/) &nbsp;
 
 ---
 
