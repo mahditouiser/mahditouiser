@@ -1,5 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mahdi Touiserkani
-
+<h1>
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="Waving hand" />
+  I'm Mahdi Touiserkani
+</h1>
 <h3 align="center">
 Full-Stack Typescript Developer experienced in building robust, high-performance web applications. Passionate about clean code, scalable systems, and delivering exceptional user experiences.
 </h3>
