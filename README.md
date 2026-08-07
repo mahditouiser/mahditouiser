@@ -3,7 +3,7 @@
   I'm Mahdi Touiserkani
 </h1>
 <h3 align="center">
-Full-Stack Typescript Developer experienced in building robust, high-performance web applications. Passionate about clean code, scalable systems, and delivering exceptional user experiences.
+Building scalable web platforms with TypeScript, React, Next.js, and Node.js, focusing on frontend architecture, backend engineering, performance, and developer experience.
 </h3>
 
 - 🚀 Focused on modern web technologies and scalable full-stack solutions
