@@ -10,5 +10,5 @@ Building scalable web platforms with TypeScript, React, Next.js, and Node.js, fo
 
 ---
 <h3 align="center">
-📌 Always learning, always building
+📌 Always learn, always build
 </h3>
