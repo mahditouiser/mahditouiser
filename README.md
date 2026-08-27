@@ -8,6 +8,8 @@
 
 <h2>Senior Frontend & Full-Stack Engineer</h2>
 
+<br/><br/>
+
 <h2>⚡ Build · 🚀 Ship · 📈 Scale</h2>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs&theme=dark" />
