@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,expo,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,next,nodejs&theme=dark" />
 
 <br/><br/>
 
