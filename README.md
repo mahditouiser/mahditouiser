@@ -6,7 +6,11 @@
 Building scalable web platforms with TypeScript, React, Next.js, and Node.js, focusing on frontend architecture, backend engineering, performance, and developer experience.
 </h3>
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs" alt="Skills" />
+  </a>
+</p>
 
 ---
 <h3 align="center">
