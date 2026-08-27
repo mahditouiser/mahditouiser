@@ -2,13 +2,10 @@
 
 <img width="100%" height="4" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Mahdi%20Touiserkani&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
 <h2>Senior Frontend & Full-Stack Engineer</h2>
-
-<br/><br/>
 
 <h2>⚡ Build · 🚀 Ship · 📈 Scale</h2>
 
