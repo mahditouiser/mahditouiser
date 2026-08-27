@@ -18,8 +18,5 @@
 <a href="https://linkedin.com/in/mahditouiser"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<br/><br/>
-
-<img width="100%" height="4" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 </div>
