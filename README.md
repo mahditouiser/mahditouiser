@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Mahdi%20Touiserkani&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
-<h3>Senior Frontend & Full-Stack Engineer</h3>
+<h2>Senior Frontend & Full-Stack Engineer</h2>
 
 <h2>⚡ Build · 🚀 Ship · 📈 Scale</h2>
 
