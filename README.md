@@ -10,11 +10,7 @@
 
 <h2>⚡ Build · 🚀 Ship · 📈 Scale</h2>
 
-<br/>
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs&theme=dark" />
-
-<br/><br/>
 
 <a href="mailto:mahditouiserkani78@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/mahditouiser"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
