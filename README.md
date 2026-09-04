@@ -1,17 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Mahdi%20Touiserkani&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=45&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=160&section=header&text=Mahdi%20Touiserkani&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
-<h2>Senior Frontend & Full-Stack Engineer</h2>
+<h3>Senior Frontend & Full-Stack Engineer</h3>
 
-<h2>⚡ Build · 🚀 Ship · 📈 Scale</h2>
+<p>Building scalable products with TypeScript, React & Node.js.</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs&theme=dark" />
+<br />
 
-<p>
-<a href="mailto:mahditouiserkani78@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/mahditouiser"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,redux&theme=dark" />
+
+<br />
+<br />
+
+<h3>⚡ Build · 🚀 Ship · 📈 Scale</h3>
 
 </div>
