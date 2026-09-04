@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=160&section=header&text=Mahdi%20Touiserkani&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
-<h3>Senior Frontend & Full-Stack Engineer</h3>
+<h2>Senior Frontend & Full-Stack Engineer</h2>
 
-<p>Building scalable products with TypeScript, React & Node.js.</p>
+<h5>Building scalable products with TypeScript, React & Node.js.</h5>
 
 <br />
 
